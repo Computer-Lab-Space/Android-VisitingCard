@@ -16,7 +16,7 @@ center. Information like the name of the employee, job title, phone number, addr
 and the website address is to be displayed. Insert a horizontal line between the job title and the
 phone number.
 
-[Sample Visiting Card Image](https://github.com/Computer-Lab-Space/Android-VisitingCard/tree/develop/app/src/main/res/drawable/visiting_card_requirement.png)
+[](https://github.com/Computer-Lab-Space/Android-VisitingCard/tree/develop/app/src/main/res/drawable/visiting_card_requirement.png)
 
 
 
