@@ -7,7 +7,9 @@ git clone https://github.com/Computer-Lab-Space/Android-VisitingCard.git
 ```
 
 #### Implementation Video Link
-[Visiting Card Application](https://youtu.be/BqLulpjZZa4).
+> [Visiting Card Application](https://youtu.be/BqLulpjZZa4)
+> 
+> Please do Share, Like, Subscribe and support us, finally hit the bell icon.
 
 #### Requirement
 Create an application to design a Visiting Card. The Visiting card should have a company logo at
@@ -16,7 +18,4 @@ center. Information like the name of the employee, job title, phone number, addr
 and the website address is to be displayed. Insert a horizontal line between the job title and the
 phone number.
 
-[](https://github.com/Computer-Lab-Space/Android-VisitingCard/tree/develop/app/src/main/res/drawable/visiting_card_requirement.png)
-
-
-
+[Sample Visiting Card Image](https://github.com/Computer-Lab-Space/Android-VisitingCard/tree/develop/app/src/main/res/drawable/visiting_card_requirement.png)
